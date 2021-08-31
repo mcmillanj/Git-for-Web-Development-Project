@@ -1,10 +1,12 @@
-a
+link to finished codepin:https://codepen.io/mcmillanj0106/pen/JjJGpbe
+
+
 <!-- Questions to Submit in today's file first-lastname.txt --> 
 <!--
 Copy the questions below into the first-lastname.txt file on your github repo - answer each question and then push your changes. 
 
     1. What is Semantic HTML? 
-   hypertext mark up languge ,a text file that web browser can read
+   hypertext mark up languge ,a text file that web browser can read and give meaning to markup
     2. What is HTML used for? HTML is the language for describing the structure of Web pages.
        
     3. What is an attribute and where do we put it? special words used inside the opening tag to control the element's behaviour. 
